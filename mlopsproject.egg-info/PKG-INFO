@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mlopsproject
+Version: 0.0.1
+Author: mdabbad
+Author-email: hr591230nc.gamil.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
