@@ -1,0 +1,7 @@
+2025-09-30 16:47:38 - root - INFO - Entered the data ingeation method or component
+2025-09-30 16:47:38 - root - INFO - read the dataset as dataframe 
+2025-09-30 16:51:34 - root - INFO - Entered the data ingestion method or component
+2025-09-30 16:51:34 - root - INFO - Read the dataset as a dataframe
+2025-09-30 16:51:34 - root - INFO - Raw data saved
+2025-09-30 16:51:34 - root - INFO - Train-test split completed
+2025-09-30 16:51:34 - root - INFO - Train and test data saved successfully
