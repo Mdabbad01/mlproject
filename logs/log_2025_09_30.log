@@ -5,3 +5,34 @@
 2025-09-30 16:51:34 - root - INFO - Raw data saved
 2025-09-30 16:51:34 - root - INFO - Train-test split completed
 2025-09-30 16:51:34 - root - INFO - Train and test data saved successfully
+2025-09-30 17:38:52 - root - INFO - Entered the data ingestion method or component
+2025-09-30 17:38:52 - root - INFO - Read the dataset as a dataframe
+2025-09-30 17:38:52 - root - INFO - Raw data saved
+2025-09-30 17:38:52 - root - INFO - Train-test split completed
+2025-09-30 17:38:52 - root - INFO - Train and test data saved successfully
+2025-09-30 17:38:52 - root - INFO - Starting data transformation
+2025-09-30 17:38:52 - root - INFO - Read train and test data
+2025-09-30 17:38:52 - root - INFO - Creating data transformation pipelines
+2025-09-30 17:38:52 - root - INFO - Preprocessor object created successfully
+2025-09-30 17:38:52 - root - INFO - Data transformation completed
+2025-09-30 17:38:52 - root - INFO - Saved preprocessor object at artifacts\preprocessor.pkl
+2025-09-30 17:40:57 - root - INFO - Entered the data ingestion method or component
+2025-09-30 17:40:57 - root - INFO - Read the dataset as a dataframe
+2025-09-30 17:40:57 - root - INFO - Raw data saved
+2025-09-30 17:40:57 - root - INFO - Train-test split completed
+2025-09-30 17:40:57 - root - INFO - Train and test data saved successfully
+2025-09-30 17:40:57 - root - INFO - Starting data transformation
+2025-09-30 17:40:57 - root - INFO - Read train and test data
+2025-09-30 17:40:57 - root - INFO - Creating data transformation pipelines
+2025-09-30 17:40:57 - root - INFO - Preprocessor object created successfully
+2025-09-30 17:44:34 - root - INFO - Entered the data ingestion method or component
+2025-09-30 17:44:34 - root - INFO - Read the dataset as a dataframe
+2025-09-30 17:44:34 - root - INFO - Raw data saved
+2025-09-30 17:44:34 - root - INFO - Train-test split completed
+2025-09-30 17:44:34 - root - INFO - Train and test data saved successfully
+2025-09-30 17:44:34 - root - INFO - Starting data transformation
+2025-09-30 17:44:34 - root - INFO - Read train and test data
+2025-09-30 17:44:34 - root - INFO - Creating data transformation pipelines
+2025-09-30 17:44:34 - root - INFO - Preprocessor object created successfully
+2025-09-30 17:44:34 - root - INFO - Data transformation completed
+2025-09-30 17:44:34 - root - INFO - Saved preprocessor object at artifacts\preprocessor.pkl
