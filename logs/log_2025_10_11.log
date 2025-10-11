@@ -1,0 +1,11 @@
+2025-10-11 16:12:55 - root - INFO - Entered the data ingestion method or component
+2025-10-11 16:12:55 - root - INFO - Read the dataset as a dataframe
+2025-10-11 16:12:55 - root - INFO - Raw data saved
+2025-10-11 16:12:55 - root - INFO - Train-test split completed
+2025-10-11 16:12:55 - root - INFO - Train and test data saved successfully
+2025-10-11 16:12:55 - root - INFO - Starting data transformation
+2025-10-11 16:12:55 - root - INFO - Read train and test data
+2025-10-11 16:12:55 - root - INFO - Creating data transformation pipelines
+2025-10-11 16:12:55 - root - INFO - Preprocessor object created successfully
+2025-10-11 16:12:55 - root - INFO - Data transformation completed
+2025-10-11 16:12:55 - root - INFO - Saved preprocessor object at artifacts\preprocessor.pkl
