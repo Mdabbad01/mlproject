@@ -9,3 +9,25 @@
 2025-10-11 16:12:55 - root - INFO - Preprocessor object created successfully
 2025-10-11 16:12:55 - root - INFO - Data transformation completed
 2025-10-11 16:12:55 - root - INFO - Saved preprocessor object at artifacts\preprocessor.pkl
+2025-10-11 16:40:19 - root - INFO - Entered the data ingestion method or component
+2025-10-11 16:40:19 - root - INFO - Read the dataset as a dataframe
+2025-10-11 16:40:19 - root - INFO - Raw data saved
+2025-10-11 16:40:19 - root - INFO - Train-test split completed
+2025-10-11 16:40:19 - root - INFO - Train and test data saved successfully
+2025-10-11 16:40:19 - root - INFO - Starting data transformation
+2025-10-11 16:40:19 - root - INFO - Read train and test data
+2025-10-11 16:40:19 - root - INFO - Creating data transformation pipelines
+2025-10-11 16:40:19 - root - INFO - Preprocessor object created successfully
+2025-10-11 16:40:19 - root - INFO - Data transformation completed
+2025-10-11 16:40:19 - root - INFO - Saved preprocessor object at artifacts\preprocessor.pkl
+2025-10-11 16:40:19 - root - INFO - Splitting training and test data
+2025-10-11 16:40:19 - root - INFO - Training model: Linear Regression
+2025-10-11 16:40:19 - root - INFO - Linear Regression R2 Score: 0.8795158595242263
+2025-10-11 16:40:19 - root - INFO - Training model: Decision Tree
+2025-10-11 16:40:19 - root - INFO - Decision Tree R2 Score: 0.7297795991097171
+2025-10-11 16:40:19 - root - INFO - Training model: Random Forest
+2025-10-11 16:40:19 - root - INFO - Random Forest R2 Score: 0.8491546068930794
+2025-10-11 16:40:19 - root - INFO - Training model: Gradient Boosting
+2025-10-11 16:40:19 - root - INFO - Gradient Boosting R2 Score: 0.8722163741835021
+2025-10-11 16:40:19 - root - INFO - Best model found: Linear Regression with R2 score: 0.8795158595242263
+2025-10-11 16:40:19 - root - INFO - Model saved at artifacts\model.pkl
